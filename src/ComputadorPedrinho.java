@@ -11,6 +11,7 @@ public class ComputadorPedrinho {
 		
 		String appEscolhido="tlg";
 		
+		
 		if(appEscolhido.equals("msn"))
 			smi = new MSNMessenger();
 		if(appEscolhido.equals("fbm"))
